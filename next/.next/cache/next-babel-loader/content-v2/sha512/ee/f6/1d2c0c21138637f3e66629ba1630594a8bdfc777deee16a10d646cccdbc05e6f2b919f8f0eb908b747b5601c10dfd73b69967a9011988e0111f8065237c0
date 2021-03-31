@@ -1,0 +1,1 @@
+{"ast":null,"code":"const pokemonConfig = {\n  BASE_URL: 'http://localhost:3737',\n  APP_KEY: 'jKTLSj6Sx91lm2HTpReZYuHmxOLRnx1o',\n  TIMEOUT: 60000\n};\nmodule.exports = pokemonConfig;","map":null,"metadata":{},"sourceType":"script"}

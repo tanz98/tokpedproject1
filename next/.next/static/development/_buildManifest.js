@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = {__rewrites:[],"/_error":["static\u002Fchunks\u002Fpages\u002F_error.js"],"/pokemondetail":["static\u002Fchunks\u002Fpages\u002Fpokemondetail.js"],"/pokemonlist":["static\u002Fchunks\u002Fpages\u002Fpokemonlist.js"],sortedPages:["\u002F_app","\u002F_error","\u002Fpokemondetail","\u002Fpokemonlist"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
